@@ -1,0 +1,254 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+html{
+	background:#111;
+}
+body{
+	background:silver;
+	height:900px;
+	width:900px;
+	margin:0 auto;
+}
+#header{
+	
+	height:200px;
+	width:100%;
+}
+	#logotxt{
+
+		width:20%;
+		height:100%;
+		float:left;
+		background:#8d9eb8;
+	}
+		#imglogo2{
+			top:-2%;
+			left:14%;
+			position:absolute;
+		}
+		
+		#logotxt h1{
+			top:28%;
+			left:12.5%;
+			position:absolute;
+			color:93230a;
+			
+			
+		}
+
+	#logo{
+		width:80%;
+		height:100%;
+		float:right;
+	}
+
+	
+
+#nav{
+	height:30px;
+	width:100%;	
+}
+	#nav0{
+		background:26105e;
+		height:30px;
+		width:20%;
+		float:left;
+	}
+	#nav1{
+		background:26105e;
+		height:30px;
+		width:60%;
+		float:left;
+	}
+		#nav ul li{
+			list-style-type:none;
+			display:inline;
+			padding-right:40px;
+			line-height:30px;
+			
+	}
+		#nav ul li a,#lful li a{
+			text-decoration:none;
+			font-size:20px;
+			color:white;
+		}
+		#nav1 ul li a:hover,#lful li a:hover{
+			text-decoration:underline;
+			font-size:22px;
+			color:5737c8;
+		}
+	#bar{
+		background:26105e;
+position:absolute; 
+		height:30px;
+top:196px;
+left:920px;
+	 
+	}
+	#search{
+		top:38%;
+			left:75%;
+			position:absolute;
+	}	
+	
+#con{
+
+	height:640px;
+	width:100%;
+}
+	#lfb{
+		background:gray;
+		height:100%;
+		float:left;
+		width:20%;
+	}
+		#lful li{
+			list-style-type:none;
+			padding-left:20px;
+			padding-top:5px;
+			padding-bottom:5px;
+		}
+	#rgb{
+		background:white;
+		height:100%;
+		float:right;
+		width:80%;
+		
+	}
+	#rgb1{
+		
+		height:100%;
+		float:right;
+		width:80%;
+	}	
+	#wel{
+			top:45%;
+			left:50%;
+			position:absolute;
+			color:071147;
+			font-size:40px;
+		}
+		
+		#or{
+			color:blue;
+			font-size:40px;
+			
+		}
+		#cs{top:45%;
+		position:absolute;
+		}
+		#cst{
+			top:75%;
+			left:30%;
+			position:absolute;
+		}
+		#textme{
+			height:70px;
+			width:200px;	
+		}
+		#table1{
+			top:50%;
+			left:30%;
+			position:absolute;
+		}
+		#table3{
+			top:103%;
+			left:30%;
+			position:absolute;
+			color:red;
+		}
+		#table4{
+			top:110%;
+			left:35%;
+			position:absolute;
+			
+		}
+		#table0{
+			top:45%;
+			left:30%;
+			position:absolute;
+		}
+	
+	
+		.container{
+			top:40%;
+			left:78%;
+			position:absolute;
+			transform:translate(-50%,50%);
+		}
+				#name{
+					width:100px;
+					border:none;
+					background:transparent;
+					border-bottom:1px solid white;
+					padding:6px;
+					color:black;
+				}
+				
+				#fg{
+					color:red;
+					font-size:13px;
+				}
+
+
+				#button{
+					border-radius:20px;
+					padding:5px 20px;
+					background:dodgerblue;
+					color:white;
+					margin-top:20px;
+					border:none;
+					outline:none;
+					margin-left:0px;
+				}
+		#table{
+			top:58%;
+			left:30%;
+			position:absolute;
+		}
+			#sing{
+				font-size:15px;
+			}
+			#name1{
+				width:200px;
+				border:0px;
+				background:transparent;
+				border-bottom:1px solid black;
+				padding:6px;
+				color:black;
+			}
+#footer{
+	background:silver;
+	height:30px;
+	width:100%;
+}
+	#copy{
+		left:10%;
+			position:absolute;
+	}
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+7293b5
+
+
+
+
+
+	
+
+
